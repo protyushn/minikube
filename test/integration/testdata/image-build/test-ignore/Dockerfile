@@ -1,3 +1,3 @@
-FROM alpine:latest
+FROM alpine:3.23.3
 
 CMD ["/bin/sh", "-c"]
